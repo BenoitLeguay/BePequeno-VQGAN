@@ -1,0 +1,6 @@
+.openai/
+.data/
+.tweepy/
+.ipynb_checkpoints/
+__pycache__/
+*.ipynb
